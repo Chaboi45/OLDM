@@ -4,6 +4,9 @@
   "license_url": "https://github.com/Chaboi45/discourse-keyboard-text/blob/master/LICENSE",
   "authors": "Chaboi_3000",
   "theme_version": "1",
-  "component": true
+  "component": true,
+  "assets": {
+      "Fontawesome": "/assets/fontawesome/all.js"
+   },
   
 }
