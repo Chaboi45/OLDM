@@ -7,6 +7,6 @@
   "component": true,
   "assets": {
       "Fontawesome": "/assets/fontawesome/all.js"
-   },
+   }
   
 }
